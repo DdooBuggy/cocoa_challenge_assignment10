@@ -29,9 +29,10 @@ section {
 /*                            search-box */
 .search-box {
   z-index: 2;
-  padding: 95px 10px;
-  width: 100%;
-  /* position: relative; */
+  padding-top: 95px;
+  width: 95%;
+  margin: 0 auto;
+  position: relative;
   display: flex;
   align-items: center;
 }
@@ -54,7 +55,7 @@ section {
 }
 /*                            main */
 main {
-  padding: 200px 15px 15px 15px;
+  padding: 50px 15px 15px 15px;
 }
 .title {
   font-size: 30px;
